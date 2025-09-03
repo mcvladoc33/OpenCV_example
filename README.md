@@ -48,5 +48,7 @@ python main.py
 
 3. A window will open showing the detected cat faces.
 
+<img width="802" height="991" alt="image" src="https://github.com/user-attachments/assets/5b0622dd-3e9c-4040-bf78-49cee1a26071" />
+
 
 <img width="1001" height="706" alt="image" src="https://github.com/user-attachments/assets/c85c1e80-8d9f-4698-b449-08467f244cfa" />

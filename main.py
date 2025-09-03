@@ -4,7 +4,7 @@ import cv2
 cat_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalcatface.xml")
 
 # Load image
-img = cv2.imread("cat.jpg")
+img = cv2.imread("cat2.jpg")
 # img = cv2.imread("cat3.png")
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
